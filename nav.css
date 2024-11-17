@@ -1,0 +1,39 @@
+#navbar {
+  /* position: sticky;
+  top: 0; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 7px;
+}
+
+#navbar .logo a {
+  font-family: sans-serif;
+  font-size: 25px;
+  color: black;
+  margin-right: 20px;
+  margin-top: 5px;
+}
+
+#navbar ul {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#navbar a {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 14px;
+  padding: 7px;
+  color: black;
+  transition: color 0.3s ease;
+}
+
+#navbar a:hover {
+  color: gray;
+}

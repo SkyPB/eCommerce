@@ -1,0 +1,97 @@
+[
+  {
+    "image_url": "./images/teakwood.webp",
+    "name": "Mahogany Teakwood",
+    "price": "$22.00",
+    "size": "13.5 ounces",
+    "description": "A fine wood fragrance combination of mahogany, cedar wood, and oak topped with scents of fresh lavender and geranium."
+  },
+
+  {
+    "image_url": "./images/french.webp",
+    "name": "Pardon My French",
+    "size": "13.5 ounces",
+    "price": "$22.00",
+    "description": "This candle gives off a sweet, sugary aroma of fresh vanilla beans mixed with a French latte. "
+  },
+
+  {
+    "image_url": "./images/champagne.webp",
+    "name": "Champagne Life",
+    "price": "$22.00",
+    "size": "13.5 ounces",
+    "description": "Our version of the infamous Champagne Toast by Bath & Body Works. This candle has a subtle, yet sweet scent. A perfect blend of sparkling berries and juicy tangerine. Oh and of course... Champagne. Let’s toast to the good life! "
+  },
+
+  {
+    "image_url": "./images/peppermint.webp",
+    "name": "Peppermint Twist",
+    "price": "$22.00",
+    "size": "13.5 ounces",
+    "description": "Notes of eucalyptus and spearmint perfectly blended to create a minty fresh scent."
+  },
+
+  {
+    "image_url": "./images/laundry.webp",
+    "name": "Laundry Day",
+    "price": "$22.00",
+    "size": "13.5 ounces",
+    "description": "After a long day of cleaning, fill the house with the aromas of fresh linen."
+  },
+
+  {
+    "image_url": "./images/caribbean.webp",
+    "name": "Caribbean Bliss",
+    "price": "$25.00",
+    "size": "10 ounces",
+    "description": "Have you ever been to paradise? Let this sweet fragrance of tropical fruits and berries lead you there in bliss."
+  },
+
+  {
+    "image_url": "./images/amaretto.webp",
+    "name": "Amaretto Sour",
+    "price": "$25.00",
+    "size": "10 ounces",
+    "description": "Who doesn't love an Amaretto Sour after a long, hot day in the sun? Notes of sweet cherries, vanilla, and tonka beans gives off a fruity scent that'll put a smile on anyone's face."
+  },
+
+  {
+    "image_url": "./images/lemon.webp",
+    "name": "Lemon Drop",
+    "price": "$25.00",
+    "size": "10 ounces",
+    "description": "I heard the girls love a good Lemon Drop! The aromas of lemongrass, cotton candy, and vanilla are carefully blended to create the perfect summer scent."
+  },
+
+  {
+    "image_url": "./images/naked.webp",
+    "name": "Let's Get Naked",
+    "price": "$25.00",
+    "size": "10 ounces",
+    "description": "Strawberries, bananas, peaches, and melons blended together to make you take off your clothes and get naked!"
+  },
+
+  {
+    "image_url": "./images/black.webp",
+    "name": "Wick Trimmer",
+    "price": "$8.00",
+    "size": "Black",
+    "description": "Elevate your candle care routine with the Essential Scents Wick Trimmer—the perfect tool for ensuring a clean, long-lasting burn for your favorite candles."
+  },
+
+  {
+    "image_url": "./images/rosegold.webp",
+    "name": "Wick Trimmer",
+    "price": "$8.00",
+    "size": "Rose Gold",
+    "description": "Elevate your candle care routine with the Essential Scents Wick Trimmer—the perfect tool for ensuring a clean, long-lasting burn for your favorite candles."
+  },
+
+  {
+    "image_url": "./images/silver.webp",
+    "name": "Wick Trimmer",
+    "price": "$8.00",
+    "size": "Silver",
+    "description": "Elevate your candle care routine with the Essential Scents Wick Trimmer—the perfect tool for ensuring a clean, long-lasting burn for your favorite candles."
+  }
+]
